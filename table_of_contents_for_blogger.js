@@ -1,7 +1,3 @@
-// ----------------------------------------
-// URL    : http://www.oqzigen.com/2013/04/create-table-of-contents-by-labels-name.html
-// ----------------------------------------
-
 function showrecentposts(json) {
   for (var i = 0; i < numposts; i++) {
     var entry = json.feed.entry[i];
